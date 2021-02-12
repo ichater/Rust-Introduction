@@ -13,8 +13,11 @@ pub fn run(){
     println!("{name} likes to do {activiy}", name = "Izaak", activiy= "BJJ");
 
     //Placeholder traits
-    println!("Binary: {:b} Hex: {:x} Octal: {:o}", 10,10,10)
+    println!("Binary: {:b} Hex: {:x} Octal: {:o}", 10,10,10);
 
     // Placeholder for debug trait
-    println!("{:? }")
+    println!("{:? }", (12, true, "Hello"));
+
+    //basic math
+    println!("1+1 =: {}", 1+1);
 }
