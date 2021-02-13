@@ -3,7 +3,7 @@
 // mod types;
 // mod strings;
 // mod tuples;
-mod arrays
+mod arrays;
 
 fn main() {
     // print::run()
